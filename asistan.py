@@ -16,9 +16,8 @@ if a==1 :print("cevabınız",d)
 elif a==2 :print("cevabınız",e)
 elif a==3 :print("cevabınız",f)
 elif a==4 :print("cevabınız",g)
-import androidhelper
-droid = androidhelper.Android()
-droid.ttsSpeak("işlem başarılı")
-import androidhelper
-droid = androidhelper.Android()
-droid.makeToast('HESAP MAKİNESİ')
+print("BİZİ KULLANDIĞINIZ İÇİN TEŞEKKÜRLER")
+
+
+
+
